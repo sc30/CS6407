@@ -13,6 +13,7 @@ public class Cell {
 	 	this.temperature=Temperature;
 	 	this.id=id;
 	 	this.working=working;
+	 	//silly comments
 	}
 	
 	//energy = time * current. do we need a public float getEnergy() to return voltage / current; ?
